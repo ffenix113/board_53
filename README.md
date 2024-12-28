@@ -3,6 +3,9 @@
 An Arduino Nano-sized board based on [nRF5340](https://www.nordicsemi.com/Products/nRF5340).
 Idea is to have modern and accessible alternative to a sea of nRF52840 boards.
 
+![top](./images/top.jpg)
+![bottom](./images/bottom.jpg)
+
 ## Features
 * Similar, but not identical, pinout to [Arduino Nano 33 BLE](https://docs.arduino.cc/hardware/nano-33-ble/).
 * Based on Raytac [MDBT53-1M](https://www.raytac.com/product/ins.php?index_id=121) (nRF5340).
