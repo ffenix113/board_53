@@ -1,0 +1,29 @@
+name: CI checks
+on:
+  pull_request:
+    branches: ['main']
+    paths: 
+      - '*.kicad_pcb'
+      - 'models/**'
+  workflow_dispatch:
+jobs:
+  check-board-images:
+    runs-on: ubuntu-latest
+    container: 
+      image: kicad/kicad:nightly
+      options: --user root
+    steps:
+      - name: Install pre-requirement
+        run: sudo apt update && sudo apt install -y libnng1
+
+      - uses: actions/checkout@v4
+
+      - name: Generate top image
+        run: kicad-cli pcb render -w 1200 -h 600 --zoom 1.8 --quality high --side top -o images/top.jpg board_53.kicad_pcb
+      - name: Generate bottom image
+        run: kicad-cli pcb render -w 1200 -h 600 --zoom 1.8 --quality high --side bottom -o images/bottom.jpg board_53.kicad_pcb
+
+      - name: Check if images differ
+        run: |
+          git config --global --add safe.directory $(pwd)
+          git diff --exit-code ./images || (echo "Please re-generate images"; exit 1)
