@@ -5139,7 +5139,6 @@
 	)
 	(label "P1.04"
 		(at 129.54 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5150,7 +5149,6 @@
 	)
 	(label "P1.02"
 		(at 129.54 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5161,7 +5159,6 @@
 	)
 	(label "P0.03{slash}NFC2"
 		(at 17.78 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5172,7 +5169,6 @@
 	)
 	(label "P0.09{slash}MOSI"
 		(at 93.98 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5183,7 +5179,6 @@
 	)
 	(label "P0.16"
 		(at 93.98 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5194,7 +5189,6 @@
 	)
 	(label "BL_LED"
 		(at 93.98 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5205,7 +5199,6 @@
 	)
 	(label "P1.10"
 		(at 27.94 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5216,7 +5209,6 @@
 	)
 	(label "P1.14"
 		(at 129.54 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5227,7 +5219,6 @@
 	)
 	(label "P0.17"
 		(at 93.98 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5238,7 +5229,6 @@
 	)
 	(label "P0.14"
 		(at 93.98 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5249,7 +5239,6 @@
 	)
 	(label "P0.18"
 		(at 71.12 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5260,7 +5249,6 @@
 	)
 	(label "P0.21"
 		(at 93.98 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5271,7 +5259,6 @@
 	)
 	(label "RD_LED"
 		(at 93.98 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5282,7 +5269,6 @@
 	)
 	(label "P0.10{slash}MISO"
 		(at 71.12 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5293,7 +5279,6 @@
 	)
 	(label "A4{slash}SDA"
 		(at 71.12 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5304,7 +5289,6 @@
 	)
 	(label "P0.15"
 		(at 93.98 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5315,7 +5299,6 @@
 	)
 	(label "P1.07"
 		(at 129.54 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5326,7 +5309,6 @@
 	)
 	(label "P0.02{slash}NFC1"
 		(at 93.98 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5337,7 +5319,6 @@
 	)
 	(label "P0.13"
 		(at 93.98 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5348,7 +5329,6 @@
 	)
 	(label "P1.11"
 		(at 17.78 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5359,7 +5339,6 @@
 	)
 	(label "A7"
 		(at 17.78 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5370,7 +5349,6 @@
 	)
 	(label "D0{slash}RX"
 		(at 71.12 26.67 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5381,7 +5359,6 @@
 	)
 	(label "P1.03"
 		(at 129.54 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5392,7 +5369,6 @@
 	)
 	(label "A1"
 		(at 93.98 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5403,7 +5379,6 @@
 	)
 	(label "A0"
 		(at 17.78 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5414,7 +5389,6 @@
 	)
 	(label "P1.09"
 		(at 129.54 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5425,7 +5399,6 @@
 	)
 	(label "P0.19"
 		(at 71.12 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5436,7 +5409,6 @@
 	)
 	(label "D0{slash}RX"
 		(at 93.98 87.63 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5447,7 +5419,6 @@
 	)
 	(label "A7"
 		(at 129.54 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5458,7 +5429,6 @@
 	)
 	(label "P0.10{slash}MISO"
 		(at 93.98 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5469,7 +5439,6 @@
 	)
 	(label "A6"
 		(at 93.98 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5480,7 +5449,6 @@
 	)
 	(label "D14"
 		(at 15.24 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5491,7 +5459,6 @@
 	)
 	(label "P0.19"
 		(at 93.98 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5502,7 +5469,6 @@
 	)
 	(label "A1"
 		(at 17.78 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5513,7 +5479,6 @@
 	)
 	(label "P1.05"
 		(at 129.54 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5524,7 +5489,6 @@
 	)
 	(label "P0.06{slash}A2"
 		(at 93.98 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5535,7 +5499,6 @@
 	)
 	(label "SWDCLK"
 		(at 71.12 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5546,7 +5509,6 @@
 	)
 	(label "P1.12"
 		(at 17.78 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5557,7 +5519,6 @@
 	)
 	(label "VBUS"
 		(at 193.04 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5568,7 +5529,6 @@
 	)
 	(label "P1.11"
 		(at 129.54 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5579,7 +5539,6 @@
 	)
 	(label "P0.06{slash}A2"
 		(at 17.78 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5590,7 +5549,6 @@
 	)
 	(label "P0.23"
 		(at 93.98 90.17 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5601,7 +5559,6 @@
 	)
 	(label "P0.12"
 		(at 93.98 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5612,7 +5569,6 @@
 	)
 	(label "P0.02{slash}NFC1"
 		(at 17.78 26.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5623,7 +5579,6 @@
 	)
 	(label "P1.06"
 		(at 129.54 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5634,7 +5589,6 @@
 	)
 	(label "A5{slash}SCL"
 		(at 93.98 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5645,7 +5599,6 @@
 	)
 	(label "A5{slash}SCL"
 		(at 71.12 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5656,7 +5609,6 @@
 	)
 	(label "GND"
 		(at 182.88 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5667,7 +5619,6 @@
 	)
 	(label "D1{slash}TX"
 		(at 93.98 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5678,7 +5629,6 @@
 	)
 	(label "P1.12"
 		(at 129.54 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5689,7 +5639,6 @@
 	)
 	(label "D4"
 		(at 17.78 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5700,7 +5649,6 @@
 	)
 	(label "~{RESET}"
 		(at 71.12 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5711,7 +5659,6 @@
 	)
 	(label "D14"
 		(at 93.98 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5722,7 +5669,6 @@
 	)
 	(label "*D5"
 		(at 129.54 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5733,7 +5679,6 @@
 	)
 	(label "*P0.08{slash}SS"
 		(at 93.98 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5744,7 +5689,6 @@
 	)
 	(label "A3"
 		(at 71.12 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5755,7 +5699,6 @@
 	)
 	(label "D4"
 		(at 129.54 26.67 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5766,7 +5709,6 @@
 	)
 	(label "~{RESET}"
 		(at 92.71 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5777,7 +5719,6 @@
 	)
 	(label "SWDIO"
 		(at 71.12 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5788,7 +5729,6 @@
 	)
 	(label "P0.16"
 		(at 68.58 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5799,7 +5739,6 @@
 	)
 	(label "~{RESET}"
 		(at 45.72 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5810,7 +5749,6 @@
 	)
 	(label "P0.11"
 		(at 93.98 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5821,7 +5759,6 @@
 	)
 	(label "D1{slash}TX"
 		(at 71.12 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5832,7 +5769,6 @@
 	)
 	(label "P1.13"
 		(at 129.54 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5843,7 +5779,6 @@
 	)
 	(label "P0.21"
 		(at 71.12 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5854,7 +5789,6 @@
 	)
 	(label "A0"
 		(at 93.98 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5865,7 +5799,6 @@
 	)
 	(label "*D5"
 		(at 17.78 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5876,7 +5809,6 @@
 	)
 	(label "P0.03{slash}NFC2"
 		(at 93.98 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5887,7 +5819,6 @@
 	)
 	(label "A4{slash}SDA"
 		(at 93.98 95.25 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5898,7 +5829,6 @@
 	)
 	(label "A3"
 		(at 93.98 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5909,7 +5839,6 @@
 	)
 	(label "SWDCLK"
 		(at 125.73 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5920,7 +5849,6 @@
 	)
 	(label "SWDIO"
 		(at 125.73 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5931,7 +5859,6 @@
 	)
 	(label "*P0.08{slash}SS"
 		(at 71.12 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5942,7 +5869,6 @@
 	)
 	(label "P0.18"
 		(at 93.98 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5953,7 +5879,6 @@
 	)
 	(label "P1.10"
 		(at 129.54 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5964,7 +5889,6 @@
 	)
 	(label "GR_LED"
 		(at 93.98 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5975,7 +5899,6 @@
 	)
 	(label "P1.08"
 		(at 129.54 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5986,7 +5909,6 @@
 	)
 	(label "P0.24"
 		(at 93.98 92.71 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5997,7 +5919,6 @@
 	)
 	(label "P0.09{slash}MOSI"
 		(at 71.12 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6635,7 +6556,7 @@
 			)
 		)
 		(property "Value" "MLZ1608N100LT000"
-			(at 88.138 173.228 90)
+			(at 73.152 170.942 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6703,7 +6624,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GRM188R60J106ME47D"
+		(property "Value" "10uF"
 			(at 271.78 86.3662 0)
 			(effects
 				(font
@@ -6773,7 +6694,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CL10A105KQ8NNNC"
+		(property "Value" "1uF"
 			(at 74.93 189.2362 0)
 			(effects
 				(font
@@ -6977,7 +6898,7 @@
 			)
 		)
 		(property "Value" "MLZ1608N100LT000"
-			(at 66.294 182.88 0)
+			(at 51.562 183.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7328,7 +7249,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ERJ-2RKF3300X"
+		(property "Value" "330 Ohm"
 			(at 69.85 96.774 90)
 			(effects
 				(font
@@ -7397,7 +7318,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-2GEJ512X"
+		(property "Value" "5.1 kOhm"
 			(at 196.85 91.44 90)
 			(effects
 				(font
@@ -7966,7 +7887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GRM188R60J106ME47D"
+		(property "Value" "10uF"
 			(at 208.28 87.6362 0)
 			(effects
 				(font
@@ -8302,7 +8223,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ERJ-2RKF3300X"
+		(property "Value" "330 Ohm"
 			(at 69.85 101.854 90)
 			(effects
 				(font
@@ -8569,7 +8490,7 @@
 				)
 			)
 		)
-		(property "Value" "ERJ-2GEJ512X"
+		(property "Value" "5.1 kOhm"
 			(at 140.97 81.28 90)
 			(effects
 				(font
@@ -8771,8 +8692,8 @@
 				)
 			)
 		)
-		(property "Value" "CL10A105KQ8NNNC"
-			(at 80.0163 173.99 90)
+		(property "Value" "1uF"
+			(at 82.804 180.594 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9895,8 +9816,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ERJ-2RKF3300X"
-			(at 69.85 111.506 90)
+		(property "Value" "330 Ohm"
+			(at 71.882 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
